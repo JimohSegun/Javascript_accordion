@@ -1,4 +1,4 @@
-Javascript Accordion Expand and Collapse
+# Javascript Accordion Expand and Collapse
 
 Create accordion using Javascript
 
